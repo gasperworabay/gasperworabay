@@ -1,4 +1,4 @@
--👋 Hai, saya @gasperworabay
+👋 Hai, saya @gasperworabay
 👀 Saya tertarik dengan Teknologi Informasi
 🌱 Saat ini saya sedang belajar HTML dan CSS
 💞️ Saya ingin belajar Teknologi untuk menambah pengetahuan saya
